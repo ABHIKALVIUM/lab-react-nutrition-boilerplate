@@ -1,0 +1,51 @@
+.image>img{
+  width: 64px;
+  height: 64px;
+}
+
+.media{
+  width: 50vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid white;
+}
+
+.control{
+  display: inline;
+}
+
+.input{
+  height: 33px;
+  margin-top: -3px;
+  width: 80px;
+}
+
+.button{
+  background-color: rgb(227, 255, 170);
+  margin-left: 400px;
+  width: 50px;
+}
+
+.box{
+  background-color: #afc8af;
+  display: flex;
+  width: 700px;
+  margin-left: 400px;
+  
+}
+
+section{
+  margin-left: 2%;
+  width: 500px;
+}
+#food{
+margin-left: 80px;
+}
+#cal{
+  margin-bottom: 10px;
+}
+#reset{
+  background-color: darkgray;
+  margin-left: 260px;
+}
